@@ -104,3 +104,20 @@ devtools::install_github("r-forge/rgl")
 
 
 ---
+
+[![Parcoords screenshot](thumbnails/timelyportfolio-parcoords.png){.widget-thumbnail}](https://github.com/timelyportfolio/parcoords)
+
+### [parcoords](https://github.com/timelyportfolio/parcoords)
+
+**Author:** [Kent Russel](https://github.com/timelyportfolio)
+
+parcoords gives R users the very well designed and interactive parallel-coordinates chart for d3 with the infrastructure, flexibility, and robustness of htmlwidgets.
+
+In action: https://bl.ocks.org/timelyportfolio/55a952fc329ffca428c412432d72049c
+
+```r
+devtools::install_github("timelyportfolio/parcoords")
+```
+
+
+---
